@@ -13,15 +13,16 @@
 ![新奥特曼](1.jpg)<br>
 **爱死亡机器人**<br>
 * ![爱死亡机器人](2.jpg)<br>
-## 我精通 C C# JavaScript等一系列编程语言的"Hello Word"输出
+## 我精通 C C# JavaScript等一系列编程语言的"Hello Word"输出 
+### C语言
 ```C
 printf("Hello, world!");
 ```
-
+### C#语言
 ```C#
 Console.WriteLine("Hello World!");
 ```
-
+### JavaScript
 ```javascript
 console.log("Hello World");
 ```
